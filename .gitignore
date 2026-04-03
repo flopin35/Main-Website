@@ -1,0 +1,11 @@
+# Ignore images folder
+images/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+*.swp
+*.swo
